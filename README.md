@@ -1,6 +1,23 @@
 # coffee_health
 
-O projeto é sobre a o consumo de café, comportamento do sono e resultados de saúde em 20 países. Inclui dados demográficos, ingestão diária de café, níveis de cafeína, duração e qualidade do sono, IMC, frequência cardíaca, estresse, atividade física, problemas de saúde, ocupação, tabagismo e consumo de álcool.
+O objetivo principal é explorar um conjunto de dados sintético contendo 10.000 registros para entender como o consumo de café impacta variáveis como:
 
-Como o impacto da cafeína no sono, estresse e saúde — o projeto inclue : Análise exploratória dos dados, visualização e insights de dados e modelo preditivo.
+* Qualidade e horas de sono.
 
+* Frequência cardíaca e IMC (Índice de Massa Corporal).
+
+* Níveis de estresse e atividade física.
+
+* Presença de problemas de saúde em diferentes ocupações e países.
+
+🛠️ Bibliotecas Necessárias :
+
+* pandas: Para manipulação e análise de dados.
+
+* (O notebook utiliza nativamente o ambiente Google Colab para carregar arquivos via /content/).
+
+🚀 Como Rodar :
+
+Ambiente: Google Colab ou um ambiente local com Jupyter Notebook.
+
+Dados: Certifique-se de ter o arquivo de dados synthetic_coffee_health_10000(in).csv disponível. No código atual, o notebook espera encontrar o arquivo no caminho /content/.
