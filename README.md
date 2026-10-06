@@ -1,23 +1,30 @@
 # coffee_health
 
-O objetivo principal é explorar um conjunto de dados sintético contendo 10.000 registros para entender como o consumo de café impacta variáveis como:
+📌 Visão Geral do Projeto
 
-* Qualidade e horas de sono.
+O objetivo principal deste projeto é investigar padrões, correlações e distribuições relativas ao consumo de café e às suas potenciais implicações na saúde física e mental.
 
-* Frequência cardíaca e IMC (Índice de Massa Corporal).
+A análise abrange:
 
-* Níveis de estresse e atividade física.
+Compreensão do perfil demográfico dos participantes.
 
-* Presença de problemas de saúde em diferentes ocupações e países.
+Avaliação dos níveis de consumo de café e cafeína.
 
-🛠️ Bibliotecas Necessárias :
+Identificação de potenciais impactos na qualidade e duração do sono, frequência cardíaca e níveis de stress.
 
-* pandas: Para manipulação e análise de dados.
+Limpeza e tratamento de dados (gestão de valores omissos e colunas irrelevantes).
 
-* (O notebook utiliza nativamente o ambiente Google Colab para carregar arquivos via /content/).
+Visualização de distribuições e deteção de outliers através de boxplots.
 
-🚀 Como Rodar :
+📁 Tecnologias Utilizadas
 
-Ambiente: Google Colab ou um ambiente local com Jupyter Notebook.
+    Linguagem: Python 3 
 
-Dados: Certifique-se de ter o arquivo de dados synthetic_coffee_health_10000(in).csv disponível. No código atual, o notebook espera encontrar o arquivo no caminho /content/.
+    Ambiente: Google Colab 
+
+    Bibliotecas:pandas (Manipulação e análise de dados) 
+
+    matplotlib & seaborn (Visualização de dados)  
+
+    math (Operações matemáticas)   
+
