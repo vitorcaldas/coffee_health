@@ -6,15 +6,15 @@ O objetivo principal deste projeto é investigar padrões, correlações e distr
 
 A análise abrange:
 
-Compreensão do perfil demográfico dos participantes.
+ - Compreensão do perfil demográfico dos participantes.
 
-Avaliação dos níveis de consumo de café e cafeína.
+ - Avaliação dos níveis de consumo de café e cafeína.
 
-Identificação de potenciais impactos na qualidade e duração do sono, frequência cardíaca e níveis de stress.
+ - Identificação de potenciais impactos na qualidade e duração do sono, frequência cardíaca e níveis de stress.
 
-Limpeza e tratamento de dados (gestão de valores omissos e colunas irrelevantes).
+ - Limpeza e tratamento de dados (gestão de valores omissos e colunas irrelevantes).
 
-Visualização de distribuições e deteção de outliers através de boxplots.
+ - Visualização de distribuições e deteção de outliers através de boxplots.
 
 📁 Tecnologias Utilizadas
 
