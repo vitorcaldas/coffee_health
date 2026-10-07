@@ -18,13 +18,13 @@ A análise abrange:
 
 📁 Tecnologias Utilizadas
 
-    Linguagem: Python 3 
+    Linguagem: Python  
 
     Ambiente: Google Colab 
 
-    Bibliotecas:pandas (Manipulação e análise de dados) 
+    Bibliotecas: Pandas (Manipulação e análise de dados) 
 
-    matplotlib & seaborn (Visualização de dados)  
+    matplotlib & seaborn: (Visualização de dados)  
 
-    math (Operações matemáticas)   
+    Sciki-learn: Modelagem preditiva   
 
